@@ -10,7 +10,6 @@ zackzheng98 2024/10/22 技藝班 C#作
 ![image](https://hackmd.io/_uploads/S15lrp4xyx.png)
 ![image](https://hackmd.io/_uploads/rJdWSa4xJl.png)
 ![image](https://hackmd.io/_uploads/ryuDB6NeJl.png)
-:::info
-### ❓ 遇到問題?
-點這裡向我回報，或用discord聯繫zackzheng_online
-:::
+
+> [❓ 遇到問題?]  
+> 點這裡向我回報，或用discord聯繫zackzheng_online
